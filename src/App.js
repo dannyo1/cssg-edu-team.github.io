@@ -17,6 +17,10 @@ const App = () => {
       <img src ="../images/spider.png" alt="spidey" width = "250" height = "200"></img>
         <ReactMarkdown source={lesson_one} />
       </div>
+      
+      <div id="music">
+      <iframe src="https://open.spotify.com/embed/track/1cHCG42MxckrXNFqyF8Uhr" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      </div>
 
       {/* <Footer /> */}
     </div>
