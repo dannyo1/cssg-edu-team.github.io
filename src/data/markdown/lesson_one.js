@@ -9,7 +9,6 @@ there's more but that's a treat for later :)
 - movies
 - skating
 - cs 
-- socialism
 
 ## find me on the internet !
 - [linkedin!](https://www.linkedin.com/in/daniel-oshaughnessy)
