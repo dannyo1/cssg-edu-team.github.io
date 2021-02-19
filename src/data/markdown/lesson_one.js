@@ -1,6 +1,6 @@
 const lesson_one = `# what it do?
 
-its nice to meet you! I am a sophomore computer science student at UNC Chapel Hill! 
+its nice to meet you! My name is Danny and I am a sophomore computer science student at UNC Chapel Hill! 
 I am a software intern at XQE LLC and a DJ at WXYC-Chapel Hill, and I am currently looking for summer opportunities in computer science.
 there's more but that's a treat for later :)
 

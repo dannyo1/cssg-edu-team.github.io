@@ -19,7 +19,11 @@ const App = () => {
       </div>
       
       <div id="music">
-      <iframe src="https://open.spotify.com/embed/track/1cHCG42MxckrXNFqyF8Uhr" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      <iframe id="hypnotized"src="https://open.spotify.com/embed/track/1cHCG42MxckrXNFqyF8Uhr" width="280" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      <iframe id="no one holds you" src="https://open.spotify.com/embed/track/77WVyrKez4KSqiVjxt6D4P" width="280" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      <iframe id="comet face" src="https://open.spotify.com/embed/track/1Dgas4lOoZgoxoj8dE4iQu" width="280" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      <iframe id="belly" src="https://open.spotify.com/embed/track/3tcMadg7fSfH0mFDo0408i" width="280" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      <iframe id="dylan" src="https://open.spotify.com/embed/track/6x14wL9HvABR2Rix8N88EH" width="280" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       </div>
 
       {/* <Footer /> */}
