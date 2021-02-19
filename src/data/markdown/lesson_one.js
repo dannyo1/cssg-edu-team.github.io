@@ -8,7 +8,7 @@ there's more but that's a treat for later :)
 - music
 - movies
 - skating
-- cs 
+- computer science
 
 ## find me on the internet !
 - [linkedin!](https://www.linkedin.com/in/daniel-oshaughnessy)
